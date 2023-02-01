@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'ArcadeClassic';
+		src: url('https://frogc0d3.github.io/static/1f0df36f-0c11-4671-b081-22750c13af01/ARCADECLASSIC.eot');
+		src: url('https://frogc0d3.github.io/static/1f0df36f-0c11-4671-b081-22750c13af01/ARCADECLASSIC.eot?#iefix') format('embedded-opentype'),
+			url('https://frogc0d3.github.io/static/1f0df36f-0c11-4671-b081-22750c13af01/ARCADECLASSIC.woff') format('woff'),
+			url('https://frogc0d3.github.io/static/1f0df36f-0c11-4671-b081-22750c13af01/ARCADECLASSIC.ttf') format('truetype');
+}
